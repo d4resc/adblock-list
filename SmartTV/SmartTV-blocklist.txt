@@ -1,8 +1,8 @@
 # This blocklist blocks SmartTV Traffic
 #
 # Date: 20 January 2022 12:40:00 (UTC)
-# Fetch the latest version of this file:
-# Project home page:
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d4resc/adblock-list/main/SmartTV/SmartTV-blocklist.txt
+# Project home page: https://github.com/d4resc/adblock-list
 # ===============================================================
 
 # This is a blacklist to block smart TVs that collect and send metadata.
