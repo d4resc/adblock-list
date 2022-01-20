@@ -1,0 +1,23 @@
+# This blocklist blocks SmartTV Traffic
+#
+# Date: 20 January 2022 12:40:00 (UTC)
+# Fetch the latest version of this file:
+# Project home page:
+# ===============================================================
+
+# This is a blacklist to block smart TVs that collect and send metadata.
+
+
+# Netflix
+nrdp.nccp.netflix.com
+customerevents.netflix.com
+ichnaea.netflix.com
+
+# Xioami Mi TV
+mitv.tracking.intl.miui.com
+tracking.intl.miui.com
+data.mistat.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+
+# Android TV
+androidtvwatsonfe-pa.googleapis.com
