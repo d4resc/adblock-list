@@ -18,6 +18,8 @@ mitv.tracking.intl.miui.com
 tracking.intl.miui.com
 data.mistat.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
+other.tv.global.mi.com
+mitv.tracking.intl.miui.com
 
 # Android TV
 androidtvchannels-pa.googleapis.com
